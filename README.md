@@ -2,10 +2,6 @@
 Prolog or PROgramming in LOGics is a logical and declarative programming language .
 ---
 
-marp: true
-paginate: true
----
-
 # Prolog or **PRO**gramming in **LOG**ics
 
 
