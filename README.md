@@ -3,22 +3,10 @@ Prolog or PROgramming in LOGics is a logical and declarative programming languag
 #### by Ahmadreza Anaami
 
 
-<!-- 
-_class: invert 
-
-_header: In the name of who surround me with blessing that I can not count 
-
-_footer: by `Ahmadreza` Anaami
-
--->
 
 
----
 
-<!--
 
-_header: logical programming
--->
 Logic Programming is one of the Computer Programming Paradigm, in which the program statements express the facts and rules about different problems within a system of formal logic. Here, the rules are written in the form of logical clauses, where head and body are present. For example, H is head and B1, B2, B3 are the elements of the body. Now if we state that “H is true, when B1, B2, B3 all are true”, this is a rule. On the other hand, facts are like the rules, but without any body. So, an example of fact is “H is true”.
 
 Some logic programming languages like Datalog or ASP (Answer Set Programming) are known as purely declarative languages. These languages allow statements about what the program should accomplish. There is no such step-by-step instruction on how to perform the task. However, other languages like Prolog, have declarative and also imperative properties. This may also include procedural statements like “To solve the problem H, perform B1, B2 and B3”.
