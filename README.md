@@ -45,6 +45,8 @@ This implies that for X to be the grandfather of Y, Z should be a parent of Y an
 # download GNU Prolog
 
 http://www.gprolog.org/
+
+
 https://dl.sourcebaran.com/download1/1934/Swipl32&64%20_SourceBaran.Com.rar
 
 
